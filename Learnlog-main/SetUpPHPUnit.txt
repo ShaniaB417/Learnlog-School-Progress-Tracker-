@@ -1,0 +1,24 @@
+-- Installing PHP and PHP Composer
+
+1. install php 
+2. verify version php -v 
+3. install : php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+4. move to global: sudo mv composer.phar /usr/local/bin/composer
+
+--- Running PHP Unit Tests
+
+5. find project folder cd 
+7. install phpunit : composer require --dev phpunit/phpunit
+8. run test : vendor/bin/phpunit tests
+
+-- Running a PHP Server
+ 
+10. open integrated terminal on Public folder 
+11. run php server php -S localhost:8000 
+
+-- Database connection 
+12. create a config.php file based on example.Config.php
+
+ 
