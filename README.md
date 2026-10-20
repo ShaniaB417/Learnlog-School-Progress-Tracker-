@@ -5,8 +5,11 @@ Learnlog is a full-stack web application developed as a school project to help s
 
 ## Screenshots
 
-<img width="585" height="328" alt="Screenshot 2026-10-18 at 2 17 53 PM" src="https://github.com/user-attachments/assets/6de6c78c-8913-472b-b657-ed4732a4b14b" />
-<img width="585" height="328" alt="Screenshot 2026-10-18 at 2 17 45 PM" src="https://github.com/user-attachments/assets/f8894755-7b01-410e-a4bc-ff1409224778" />
+
+![Screenshot 1](SignUp.png)
+
+![Screenshot 2](Login.png)
+
 
 
 ## Features
